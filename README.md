@@ -283,3 +283,11 @@ Bootcamp'ler pratik odaklı bir yaklaşım benimser, gerçek dünya senaryoları
   
 
 Eğer yazılım becerilerinizi hızla geliştirmek ve kariyerinizi ilerletmek istiyorsanız, düzenlendiğimiz [**Bootcamp**](https://coderspace.io/etkinlikler/bootcamp/)’lere göz atabilirsiniz. Bootcamp'lerimizle hızla yazılım becerilerinizi geliştirin ve kariyerinizi ilerletin.
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/coderspaceio/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coderspace_io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/coderspace-io/)
+[![Codecast](https://img.shields.io/badge/Codecast-%2381b71a.svg?&style=for-the-badge&logo=codecast&logoColor=white)](https://open.spotify.com/show/76XNB92UbdvDwTdeXDtzNF)
+[![YouTube](https://img.shields.io/badge/YouTube-%23C4302b.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@coderspaceio)
+[![Discord](https://img.shields.io/badge/Discord-%237289da.svg?&style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/AW9Fw3yRU6)
